@@ -1,0 +1,6 @@
+{
+  "name": "Zayr Select — Curated Tech & Wearables Pakistan",
+  "description": "Minimalist cinematic online storefront for smart watches, Meta smart glasses, audio, and flagship gadgets with Daraz Mall & Amazon Global fulfillment across Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
